@@ -1,4 +1,3 @@
-key = c32e54ad
 link = http://www.omdbapi.com/?apikey=${API_EY}&s={inputValue}
 Al inicio poner un input en el centro, 
 

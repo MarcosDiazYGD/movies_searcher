@@ -18,7 +18,7 @@ const App = () => {
   }
 
   const renderMovies = () => {
-    let url = `http://www.omdbapi.com/?apikey=${API_KEY}&s=${inputValue}`
+    let url = `https://www.omdbapi.com/?apikey=${API_KEY}&s=${inputValue}`
 
     return (
       <>
